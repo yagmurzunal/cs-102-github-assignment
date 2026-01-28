@@ -20,7 +20,8 @@ public class PartB {
             option = in.nextInt() ;
 
             if (option == 1) {
-                partC.findMinMax(array) ;
+                partC.findMin(array) ;
+                partC.findMax(array) ;
             }
 
             else if (option == 2) {
