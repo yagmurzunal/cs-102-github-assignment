@@ -1,4 +1,4 @@
-public class partA {
+public class PartA {
     public static int[] create(int length){
         int[] numbers = new int[length];
         for(int i = 0; i < length; i++ ){
